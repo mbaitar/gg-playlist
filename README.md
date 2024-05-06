@@ -11,6 +11,10 @@
 ## From zero to Steam
 - [YouTube Playlist](https://www.youtube.com/playlist?list=PL0xRBLFXXsP5pQmRnlJlBSrgQ-5IKDehz)
 
+## How to Golang
+- [YouTube Video](https://www.youtube.com/playlist?list=PL0xRBLFXXsP7-0IVCmoo2FEWBrQzfH2l8)  
+- [Github Repo](https://github.com/anthdm)
+
 ## The complete JSON API in golang
 - [YouTube Playlist](https://www.youtube.com/playlist?list=PL0xRBLFXXsP6nudFDqMXzrvQCZrxSOm-2)  
 - [Github Repo](https://github.com/anthdm/gobank)
