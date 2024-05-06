@@ -18,6 +18,11 @@
 ## The complete JSON API in golang
 - [YouTube Playlist](https://www.youtube.com/playlist?list=PL0xRBLFXXsP6nudFDqMXzrvQCZrxSOm-2)  
 - [Github Repo](https://github.com/anthdm/gobank)
+
+## Golang by examples by beginners
+- [YouTube Playlist](https://www.youtube.com/playlist?list=PL0xRBLFXXsP5cru52B5GAQmIrTTAL8A66)  
+- [Github Repo](https://github.com/anthdm)
+
 ## Decentralized poker game
 - [YouTube Playlist](https://www.youtube.com/playlist?list=PL0xRBLFXXsP4AqkUr9XHdFJwfwN-dy9oS)  
 - [Github Repo](https://github.com/anthdm/ggpoker)
