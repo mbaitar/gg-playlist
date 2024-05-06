@@ -13,7 +13,7 @@
 
 ## The complete JSON API in golang
 - [YouTube Playlist](https://www.youtube.com/playlist?list=PL0xRBLFXXsP6nudFDqMXzrvQCZrxSOm-2)  
-[Github Repo](https://github.com/anthdm/gobank)
+- [Github Repo](https://github.com/anthdm/gobank)
 ## Decentralized poker game
 - [YouTube Playlist](https://www.youtube.com/playlist?list=PL0xRBLFXXsP4AqkUr9XHdFJwfwN-dy9oS)  
 - [Github Repo](https://github.com/anthdm/ggpoker)
