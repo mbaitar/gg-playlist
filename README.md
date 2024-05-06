@@ -19,7 +19,7 @@
 - [YouTube Playlist](https://www.youtube.com/playlist?list=PL0xRBLFXXsP6nudFDqMXzrvQCZrxSOm-2)  
 - [Github Repo](https://github.com/anthdm/gobank)
 
-## Golang by examples by beginners
+## Golang by examples for beginners
 - [YouTube Playlist](https://www.youtube.com/playlist?list=PL0xRBLFXXsP5cru52B5GAQmIrTTAL8A66)  
 - [Github Repo](https://github.com/anthdm)
 
